@@ -1,0 +1,2 @@
+# Conversor-de-Unidades
+A aplicação foi desenvolvida em Java, a linguagem de programação orientada a objetos. A linguagem permitirá alterações mais fáceis e rápidas no sistema. A premissa principal da aplicação é um conversor de unidades, que lhe permite converter entre unidades básicas. Selecione a categoria que você deseja executar a conversão, basta escolher a unidade desejada, digita o valor e qual unidade você deseja converter.
